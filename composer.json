@@ -1,11 +1,11 @@
 {
-    "name": "codeception/aspect-mock",
+    "name": "vasilevIT/aspect-mock",
     "description": "Experimental Mocking Framework powered by Aspects",
     "license": "MIT",
     "authors": [
         {
-            "name": "Michael Bodnarchuk",
-            "email": "davert@codeception.com"
+            "name": "Anton Vasiliev",
+            "email": "bysslaev@gmail.com"
         }
     ],
     "autoload": {
