@@ -15,7 +15,7 @@
        },
     "require": {
         "php": "^8",
-        "goaop/framework": "^3",
+        "vasilevit/goaop_framework": "dev-master",
         "phpunit/phpunit": "*",
         "symfony/finder": "*"
     },
