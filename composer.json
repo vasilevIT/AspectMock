@@ -14,7 +14,10 @@
            }
        },
     "require": {
-        "php": "^8"
+        "php": "^8",
+        "goaop/framework": "*",
+        "phpunit/phpunit": "*",
+        "symfony/finder": "*"
     },
     "require-dev": {
         "codeception/codeception": "^5.1",
