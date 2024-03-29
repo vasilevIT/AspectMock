@@ -15,7 +15,7 @@
        },
     "require": {
         "php": "^8",
-        "goaop/framework": "*",
+        "goaop/framework": "^3",
         "phpunit/phpunit": "*",
         "symfony/finder": "*"
     },
